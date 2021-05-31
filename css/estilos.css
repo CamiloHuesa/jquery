@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;	
+}
+#caja{
+    background-color: cornflowerblue;
+    width: 50px;
+    height: 24px;
+}
+#caja2{
+    background-color: red;
+    width: 110px;
+    height: 23px;
+}
+#caja3{
+    background-color: chartreuse;
+    width: 130px;
+    height: 23px;
+}
+#caja4{
+    background-color: violet;
+    width: 120px;
+    height: 23px;
+}
