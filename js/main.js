@@ -16,3 +16,6 @@ $("#ocultar2").mouseover(function(){
 $("#alternar").click(function(){
     $("#caja4").toggle(300);
 });
+$("#animar").click(function(){
+    $("#caja7").animate({"left": "2000px"}, 900);
+});

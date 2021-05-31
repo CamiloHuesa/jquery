@@ -21,3 +21,9 @@
     width: 120px;
     height: 23px;
 }
+#caja7{
+    background-color: rgb(226, 235, 104);
+    width: 90px;
+    height: 23px;
+    position: relative;
+}
